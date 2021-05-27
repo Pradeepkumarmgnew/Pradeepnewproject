@@ -1,0 +1,13 @@
+C:\Users\O8FJ\source\repos\Learningcsharpmay26\Learningcsharpmay26\bin\Debug\netcoreapp3.1\Learningcsharpmay26.exe
+C:\Users\O8FJ\source\repos\Learningcsharpmay26\Learningcsharpmay26\bin\Debug\netcoreapp3.1\Learningcsharpmay26.deps.json
+C:\Users\O8FJ\source\repos\Learningcsharpmay26\Learningcsharpmay26\bin\Debug\netcoreapp3.1\Learningcsharpmay26.runtimeconfig.json
+C:\Users\O8FJ\source\repos\Learningcsharpmay26\Learningcsharpmay26\bin\Debug\netcoreapp3.1\Learningcsharpmay26.runtimeconfig.dev.json
+C:\Users\O8FJ\source\repos\Learningcsharpmay26\Learningcsharpmay26\bin\Debug\netcoreapp3.1\Learningcsharpmay26.dll
+C:\Users\O8FJ\source\repos\Learningcsharpmay26\Learningcsharpmay26\bin\Debug\netcoreapp3.1\Learningcsharpmay26.pdb
+C:\Users\O8FJ\source\repos\Learningcsharpmay26\Learningcsharpmay26\obj\Debug\netcoreapp3.1\Learningcsharpmay26.csproj.AssemblyReference.cache
+C:\Users\O8FJ\source\repos\Learningcsharpmay26\Learningcsharpmay26\obj\Debug\netcoreapp3.1\Learningcsharpmay26.AssemblyInfoInputs.cache
+C:\Users\O8FJ\source\repos\Learningcsharpmay26\Learningcsharpmay26\obj\Debug\netcoreapp3.1\Learningcsharpmay26.AssemblyInfo.cs
+C:\Users\O8FJ\source\repos\Learningcsharpmay26\Learningcsharpmay26\obj\Debug\netcoreapp3.1\Learningcsharpmay26.csproj.CoreCompileInputs.cache
+C:\Users\O8FJ\source\repos\Learningcsharpmay26\Learningcsharpmay26\obj\Debug\netcoreapp3.1\Learningcsharpmay26.dll
+C:\Users\O8FJ\source\repos\Learningcsharpmay26\Learningcsharpmay26\obj\Debug\netcoreapp3.1\Learningcsharpmay26.pdb
+C:\Users\O8FJ\source\repos\Learningcsharpmay26\Learningcsharpmay26\obj\Debug\netcoreapp3.1\Learningcsharpmay26.genruntimeconfig.cache
