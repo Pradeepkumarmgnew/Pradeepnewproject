@@ -11,11 +11,12 @@ namespace Learningcsharpmay26.Csharpfirstproject
             Console.WriteLine("hello pradeep");
             
             string str;
-            str = " pradeep ";
+            str = " pradeepkumar ";
             Console.WriteLine(str.Length);
             str = str.Trim();   
             Console.WriteLine(str.Length);
             Console.WriteLine($"this value is {str}");
+
         }
     }
 }
