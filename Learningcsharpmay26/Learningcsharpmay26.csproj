@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>Learningcsharpmay26.Csharpfirstproject.Basics</StartupObject>
+    <StartupObject>Learningcsharpmay26.Csharpfirstproject.MainVehicle</StartupObject>
   </PropertyGroup>
 
 </Project>
